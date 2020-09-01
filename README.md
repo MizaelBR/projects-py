@@ -7,6 +7,7 @@ My projects in _Python_.
 
 </div>
 
+Programas simples em python para testar meus conhecimentos.
+
 #### LINKS:
 - [Poke-dex](poke-dex/) - Usando web scraping e API(pokeapi.co) para indentificar pokemons.
-- _coming soon..._
